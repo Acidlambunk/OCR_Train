@@ -21,4 +21,3 @@ Dataset
 The project uses the IAM Words dataset (or a similar dataset) stored in the Datasets/IAM_Words/words directory.
 Models and configurations are stored in the Models/03_handwriting_recognition/202412050543 directory, including model.keras, configs.yaml, and val.csv for validation data.
 
-For more information please visit: https://github.com/pythonlessons/mltu/tree/main/Tutorials/03_handwriting_recognition
